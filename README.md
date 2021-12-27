@@ -4,7 +4,7 @@
 > Minimal Firefox user.js tweaked for privacy
 ```
 
-Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repo also contains many tips & tweaks you can use on Firefox based browsers. I think Mozilla should ship with these tweaks pre-configured, out of the box.
+Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repository contains many tips & tweaks you can use on Firefox based browsers. I think Mozilla should ship with these tweaks pre-configured, out of the box.
 
 ## Like LibreWolf?
 
@@ -35,7 +35,7 @@ So it's not really necessary to use LibreWolf if you can follow the simple instr
 
 ### 9. Search Engine
 
-Google, Bing, Yahoo are not good choices. Pick another search engine like DuckDuckGo, Whoogle, Brave Search, Wikipedia, a Searx instance, or simply just bookmark sites.
+Google, Bing, Yahoo are not good choices. Pick another search engine like [DuckDuckGo](https://duckduckgo.com/), [Whoogle](https://github.com/benbusby/whoogle-search), [Brave Search](https://search.brave.com/), [Wikipedia](https://wikipedia.org/), a [Searx](https://searx.me/) instance, or simply just bookmark sites.
 
 TIP -> Right click on the addressbar to add search engines
 
@@ -47,12 +47,12 @@ TIP -> Right click on the addressbar to add search engines
 
 TIP -> HTTPS is always on. Don't need to install any extensions.
 
-### Done!
+### Done
 
 Check this page for updates. Bookmark it. [CTRL+D]
 
 ---
-It's a shame Mozilla bloats Firefox with every new update. Well at least it's better than anything on the market as of now. That being said, please tell Mozilla to not indulge in politics & divide users. I want them to actually fight for the 'Open Web' than act as a pawn for Google, slowly losing marketshare.
+It's a shame Mozilla bloats Firefox with every new update. Well at least it's better than anything on the market as of now. That being said, please tell Mozilla to not indulge in politics & divide users. I want them to actually fight for the 'Open Web' than act as a pawn for [Google](https://www.pcmag.com/news/mozilla-signs-lucrative-3-year-google-search-deal-for-firefox), slowly losing marketshare.
 
 ---
 This repo is hosted on [Codeberg](https://codeberg.org/polarhive/vulpes) & on GitHub as a READ-ONLY mirror.
