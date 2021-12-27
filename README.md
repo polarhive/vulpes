@@ -4,11 +4,11 @@
 > Minimal Firefox user.js tweaked for privacy
 ```
 
-This repo also contains many tips & tweaks you can use on Firefox based browsers. I think Mozilla should ship with these tweaks pre-configured, out of the box.
+Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repo also contains many tips & tweaks you can use on Firefox based browsers. I think Mozilla should ship with these tweaks pre-configured, out of the box.
 
 ## Like LibreWolf?
 
-In general, vanilla Firefox can be tweaked to do everything that LibreWolf does. Most GNU/Linux distros ship with better, up-to-date versions of Firefox, browser addons receive critical auto-updates, some distros specifically add patches to improve performance / integrate better with the desktop like KDE. Most importantly you get official support from Mozilla, should you be facing bugs. LibreWolf might feel too harsh for some people, some sites stop working. In this case you should be using the Tor Browser instead - for better privacy & compartmentalize your browsers.
+In general, vanilla Firefox can be tweaked to do everything that [LibreWolf](https://librewolf.net/) does. Most [GNU/Linux](https://polarhive.ml/linux) distros ship with better, up-to-date versions of Firefox, browser addons receive critical auto-updates, some distros specifically add patches to improve performance / [integrate](https://gitlab.com/librewolf-community/browser/linux/-/issues/232) better with the [desktop like KDE](https://community.kde.org/Plasma/Browser_Integration). Most importantly you get official support from Mozilla, should you be facing bugs. LibreWolf might feel too harsh for some people, some sites stop working. In this case you should be using the [Tor Browser](https://www.torproject.org/) instead - for better privacy & compartmentalize your browsers.
 
 So it's not really necessary to use LibreWolf if you can follow the simple instructions given here & you don't have a problem with software updates being hosted on Mozilla's servers.
 
@@ -26,11 +26,11 @@ So it's not really necessary to use LibreWolf if you can follow the simple instr
 
 1. Click [here](https://codeberg.org/polarhive/vulpes/archive/main.zip) to download the latest user.js file
 2. Extract the ZIP
-3. Copy the '``user.js``' file to the clipboard
+3. Copy the ``user.js`` file to the clipboard
 4. Launch Firefox
-5. Type '``about:profiles``' in the addressbar & hit enter
-6. Navigate to the Firefox current profile folder by clicking on '``Open Directory``'
-7. Paste the '``user.js``' file into that Firefox profile directory
+5. Type ``about:profiles`` in the addressbar & hit enter
+6. Navigate to the Firefox current profile folder by clicking on ``Open Directory``
+7. Paste the ``user.js`` file into that Firefox profile directory
 8. Close Firefox & launch it again
 
 ### 9. Search Engine
@@ -52,7 +52,7 @@ TIP -> HTTPS is always on. Don't need to install any extensions.
 Check this page for updates. Bookmark it. [CTRL+D]
 
 ---
-It's a shame Mozilla bloats Firefox with every new update. Well at least it's better than anything on the market as of now. That being said, please tell Mozilla to not indulge in politics & divide users. I want them to actually fight for the 'Open Web' than act as a pawn for Google, and slowly lose marketshare.
+It's a shame Mozilla bloats Firefox with every new update. Well at least it's better than anything on the market as of now. That being said, please tell Mozilla to not indulge in politics & divide users. I want them to actually fight for the 'Open Web' than act as a pawn for Google, slowly losing marketshare.
 
 ---
 This repo is hosted on [Codeberg](https://codeberg.org/polarhive/vulpes) & on GitHub as a READ-ONLY mirror.
