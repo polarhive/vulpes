@@ -6,18 +6,17 @@
 
 Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repository contains many tips & tweaks you can use on Firefox based browsers. I think Mozilla should ship with these tweaks pre-configured, out of the box.
 
-
 ## What's with the name?
 
 ``` text
-vulpes - family of foxes; this user.js can be used on any Firefox based browser
+vulpes - family of foxes; this user.js can be used with any Firefox based browser
 ```
+
 ## Like LibreWolf?
 
 In general, vanilla Firefox can be tweaked to do everything that [LibreWolf](https://librewolf.net/) does. Most [GNU/Linux](https://polarhive.ml/linux) distros ship with better, up-to-date versions of Firefox, browser addons receive critical auto-updates, some distros specifically add patches to improve performance / [integrate](https://gitlab.com/librewolf-community/browser/linux/-/issues/232) better with the [desktop like KDE](https://community.kde.org/Plasma/Browser_Integration). Most importantly you get official support from Mozilla, should you be facing bugs. LibreWolf might feel too harsh for some people, some sites stop working. In this case you should be using the [Tor Browser](https://www.torproject.org/) instead - for better privacy & compartmentalize your browsers.
 
 So it's not really necessary to use LibreWolf if you can follow the simple instructions given here & you don't have a problem with software updates being hosted on Mozilla's servers.
-
 
 ## Tweaks 🛠
 
@@ -28,6 +27,7 @@ So it's not really necessary to use LibreWolf if you can follow the simple instr
 - Reduced pinging 3rd party sites like pocket
 
 ---
+
 # Instructions
 
 ### 0. Copy The ``user.js``
