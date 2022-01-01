@@ -4,6 +4,8 @@
 > Minimal Firefox user.js tweaked for privacy
 ```
 
+![My Firefox setup](https://polarhive.ml/blog/firefox/home.png)
+
 Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repository contains many tips & tweaks you can use on Firefox based browsers. I think Mozilla should ship with these tweaks pre-configured, out of the box.
 
 ## What's with the name?
@@ -51,6 +53,7 @@ TIP -> Right click on the addressbar to add search engines
 
 - [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
+- [Nice dark theme](https://addons.mozilla.org/en-US/firefox/addon/nicedarktheme/)
 - [Material Ocean Dark Theme](https://addons.mozilla.org/en-US/firefox/addon/material-ocean-theme/)
 
 TIP -> HTTPS is always on. Don't need to install any extensions.
