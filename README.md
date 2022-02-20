@@ -66,6 +66,6 @@ Check this page for updates. Bookmark it. [CTRL+D]
 It's a shame Mozilla bloats Firefox with every new update. Well at least it's better than anything on the market as of now. That being said, please tell Mozilla to not indulge in politics & divide users. I want them to actually fight for the 'Open Web' than act as a pawn for [Google](https://www.pcmag.com/news/mozilla-signs-lucrative-3-year-google-search-deal-for-firefox), slowly losing marketshare.
 
 ---
-This repo is hosted on [Codeberg](https://codeberg.org/polarhive/vulpes) & on GitHub as a READ-ONLY mirror.
+This repo is hosted on [Codeberg](https://polarhive.ml/vulpes) & mirrored to [GitHub](https://polarhive.ml/github) for traffic.
 
 [![license: GPLv3 or Later](https://polarhive.ml/assets/badges/gpl-3.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
