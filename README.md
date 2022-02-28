@@ -51,7 +51,7 @@ TIP -> Right click on the addressbar to add search engines
 
 ### 10. Extensions
 
-- [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
 - [Nice dark theme](https://addons.mozilla.org/en-US/firefox/addon/nicedarktheme/)
 - [Material Ocean Dark Theme](https://addons.mozilla.org/en-US/firefox/addon/material-ocean-theme/)

@@ -117,6 +117,7 @@ user_pref("geo.provider.network.url", "");
 user_pref("identity.fxaccounts.enabled", false);
 user_pref("intl.locale.requested", "en-US");
 user_pref("javascript.use_us_english_locale", true);
+user_pref("layout.spellcheckDefault", 2);
 user_pref("lightweightThemes.getMoreURL", "");
 user_pref("media.gmp-provider.enabled", false);
 user_pref("media.videocontrols.picture-in-picture.video-toggle.has-used", true);
