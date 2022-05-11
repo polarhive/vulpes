@@ -1,7 +1,7 @@
 // HOW TO USE?
-// Last updated on 2022-04-25
+// Last updated on 2022-05-11
 // https://polarhive.ml/vulpes
-
+//
 user_pref("accessibility.typeaheadfind.flashBar", 0);
 user_pref("app.normandy.enabled", false);
 user_pref("app.normandy.first_run", false);
@@ -55,6 +55,7 @@ user_pref("browser.newtabpage.activity-stream.telemetry", false);
 user_pref("browser.newtabpage.activity-stream.telemetry.structuredIngestion.endpoint", "");
 user_pref("browser.newtabpage.enabled", false);
 user_pref("browser.preferences.moreFromMozilla, false")
+user_pref("browser.promo.focus.enabled", false);
 user_pref("browser.safebrowsing.downloads.enabled", false);
 user_pref("browser.safebrowsing.downloads.remote.block_dangerous", false);
 user_pref("browser.safebrowsing.downloads.remote.block_dangerous_host", false);
@@ -87,6 +88,7 @@ user_pref("browser.urlbar.shortcuts.bookmarks", false);
 user_pref("browser.urlbar.shortcuts.history", false);
 user_pref("browser.urlbar.shortcuts.tabs", false);
 user_pref("browser.urlbar.suggest.calculator", true);
+user_pref("browser.vpn_promo.enabled", false);
 user_pref("datareporting.healthreport.uploadEnabled", false);
 user_pref("device.sensors.enabled", false);
 user_pref("devtools.everOpened", true);
