@@ -1,5 +1,5 @@
 // HOW TO USE?
-// Last updated on 2022-05-11
+// Last updated on 2022-10-21
 // https://polarhive.ml/vulpes
 //
 user_pref("accessibility.typeaheadfind.flashBar", 0);
@@ -54,6 +54,9 @@ user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
 user_pref("browser.newtabpage.activity-stream.telemetry", false);
 user_pref("browser.newtabpage.activity-stream.telemetry.structuredIngestion.endpoint", "");
 user_pref("browser.newtabpage.enabled", false);
+user_pref("browser.partnerlink.attributionURL", "");
+user_pref("browser.partnerlink.campaign.topsites", "");
+user_pref("browser.ping-centre.telemetry", false);
 user_pref("browser.preferences.moreFromMozilla", false);
 user_pref("browser.promo.focus.enabled", false);
 user_pref("browser.safebrowsing.downloads.enabled", false);
