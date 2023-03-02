@@ -1,5 +1,5 @@
 // HOW TO USE?
-// Last updated on 2022-10-21
+// Last updated on 2023-03-02
 // https://polarhive.ml/vulpes
 //
 user_pref("accessibility.typeaheadfind.flashBar", 0);
