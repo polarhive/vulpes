@@ -4,7 +4,7 @@
 > Minimal Firefox user.js tweaked for privacy
 ```
 
-![My Firefox setup](https://polarhive.ml/blog/firefox/home.png)
+![My Firefox setup](assets/home.png)
 
 Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repository contains many tips & tweaks you can use on Firefox based browsers. I think Mozilla should ship with these tweaks pre-configured, out of the box.
 
