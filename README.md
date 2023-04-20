@@ -6,66 +6,78 @@
 
 ![My Firefox setup](assets/home.png)
 
-Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repository contains many tips & tweaks you can use on Firefox based browsers. I think Mozilla should ship with these tweaks pre-configured, out of the box.
+Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repository
+contains my configs & tweaks that you can use on Firefox-based browsers.
+I think Mozilla should ship with these tweaks pre-configured.
+
+## Like LibreWolf?
+
+Vanilla Firefox can be tweaked to do everything that [LibreWolf](https://librewolf.net/)
+already does. You don't need to use LibreWolf if you use my ``user.js`` file.
+
+Most GNU/Linux distros ship with better; up-to-date versions of Firefox.
+LibreWolf is built only after Mozilla releases the next build of Firefox.
+Some-distros specifically patch their distro's release to improve performance
+and have desktop [integrations](https://gitlab.com/librewolf-community/browser/linux/-/issues/232)
+like KDE Plasma.
+
+Most importantly — you get official support from Mozilla, should top-sites
+stop working because of [Chromium](https://webcompat.com/) incompatibilities.
+LibreWolf might feel too-harsh for some people when popular sites stop-working.
+You should be using the [Tor Browser](https://www.torproject.org/) if your
+goal is to improve your digital-privacy and combat fingerpriting.
+
+## Tweaks 🛠
+
+- A better dark-theme
+- Telemetry disabled
+- Firefox accounts disabled
+- Google Safe browsing / geolocation disabled
+- Stopped pinging 3rd party sites fetched by Pocket
 
 ## What's with the name?
 
 ``` text
-vulpes - family of foxes; this user.js can be used with any Firefox based browser
+vulpes — family of foxes; this user.js can be used with any Firefox based browser
 ```
 
-## Like LibreWolf?
-
-In general, vanilla Firefox can be tweaked to do everything that [LibreWolf](https://librewolf.net/) does. Most [GNU/Linux](https://polarhive.ml/linux) distros ship with better, up-to-date versions of Firefox, browser addons receive critical auto-updates, some distros specifically add patches to improve performance / [integrate](https://gitlab.com/librewolf-community/browser/linux/-/issues/232) better with the [desktop like KDE](https://community.kde.org/Plasma/Browser_Integration). Most importantly you get official support from Mozilla, should you be facing bugs. LibreWolf might feel too harsh for some people, some sites stop working. In this case you should be using the [Tor Browser](https://www.torproject.org/) instead. For better privacy, compartmentalize your browsers.
-
-So it's not really necessary to use LibreWolf if you can follow the simple instructions given here & you don't have a problem with software updates being served from Mozilla's servers.
-
-## Tweaks 🛠
-
-- Better Dark Theme
-- Telemetry disabled
-- Firefox accounts disabled
-- Google Safe browsing & geolocation disabled
-- Stopped pinging 3rd party sites fetched by Pocket
-
 ---
-
 # Instructions
 
-### 0. Copy The ``user.js``
+1. Copy The ``user.js``
+2. Click [here](https://codeberg.org/polarhive/vulpes/archive/main.zip) to download the latest user.js file
+3. Extract the ZIP
+4. Copy the ``user.js`` file to the clipboard
+5. Launch Firefox
+6. Type ``about:profiles`` in the address bar & hit enter
+7. Navigate to the Firefox current profile folder by clicking on ``Open Directory``
+8. Paste the ``user.js`` file into that Firefox profile directory
+9. Close Firefox & launch it again
+10. Search Engine: Google, Bing, Yahoo are not good choices. Pick another search engine
 
-1. Click [here](https://codeberg.org/polarhive/vulpes/archive/main.zip) to download the latest user.js file
-2. Extract the ZIP
-3. Copy the ``user.js`` file to the clipboard
-4. Launch Firefox
-5. Type ``about:profiles`` in the address bar & hit enter
-6. Navigate to the Firefox current profile folder by clicking on ``Open Directory``
-7. Paste the ``user.js`` file into that Firefox profile directory
-8. Close Firefox & launch it again
+> TIP: Right-click on the address bar to add custom search-engines while visiting the site.
 
-### 9. Search Engine
+Try [DuckDuckGo](https://duckduckgo.com/), [Whoogle](https://github.com/benbusby/whoogle-search),
+[Brave Search](https://search.brave.com/), or pick a [Searx](https://searx.me/) instance.
 
-Google, Bing, Yahoo are not good choices. Pick another search engine like [DuckDuckGo](https://duckduckgo.com/), [Whoogle](https://github.com/benbusby/whoogle-search), [Brave Search](https://search.brave.com/), [Wikipedia](https://wikipedia.org/), a [Searx](https://searx.me/) instance, or simply just bookmark sites.
+## Extensions & Themes
 
-TIP -> Right click on the address bar to add search engines
+I use these for a better web-browsing experience. I'd say installing uBlock origin is the least
+one can do these days. Checkout the other extensions or install your own. Make sure your
+extensions aren't proprietary as these can be potenial security-risks.
 
-### 10. Extensions
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - ads/content blocker
+- [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) - fetch fonts, JS libraries locally instead of remote CDNs
+- [libredirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) - helps you use privacy frontends like Nitter, Piped & Teddit
+- [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) - dark-mode for sites that don't have a dark theme
+- [nicedark-theme](https://addons.mozilla.org/en-US/firefox/addon/nicedarktheme/) - what it says on the tin: a 'really nice' dark-theme
+- [materialocean-theme](https://addons.mozilla.org/en-US/firefox/addon/material-ocean-theme/) - the colorscheme that I use
 
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-- [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
-- [Nice dark theme](https://addons.mozilla.org/en-US/firefox/addon/nicedarktheme/)
-- [Material Ocean Dark Theme](https://addons.mozilla.org/en-US/firefox/addon/material-ocean-theme/)
-
-TIP -> HTTPS is always on. Don't need to install any extensions.
-
-### Done
-
+TIP: HTTPS is always on. You don't need to install any extensions.
 Check this page for updates. Bookmark it. [CTRL+D]
 
 ---
-It's a shame Mozilla bloats Firefox with every new update. Well at least it's better than anything on the market as of now. That being said, please tell Mozilla to not indulge in politics & divide users. I want them to actually fight for the 'Open Web' than act as a pawn for [Google](https://www.pcmag.com/news/mozilla-signs-lucrative-3-year-google-search-deal-for-firefox), slowly losing market share.
-
----
-This repo is hosted on [Codeberg](https://polarhive.ml/vulpes) & mirrored to [GitHub](https://polarhive.ml/github) for traffic.
+This repo is hosted on [Codeberg](https://polarhive.ml/vulpes) & mirrored
+to [GitHub](https://polarhive.ml/github) for traffic.
 
 [![license: GPLv3 or Later](https://polarhive.ml/assets/badges/gpl-3.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
