@@ -73,8 +73,7 @@ extensions aren't proprietary as these can be potenial security-risks.
 - [nicedark-theme](https://addons.mozilla.org/en-US/firefox/addon/nicedarktheme/) - what it says on the tin: a 'really nice' dark-theme
 - [materialocean-theme](https://addons.mozilla.org/en-US/firefox/addon/material-ocean-theme/) - the colorscheme that I use
 
-TIP: HTTPS is always on. You don't need to install any extensions.
-Check this page for updates. Bookmark it. [CTRL+D]
+> TIP: HTTPS is always on. You don't need to install any extension. Check this [page](https://codeberg.org/polarhive/vulpes.rss) for furthur updates.
 
 ---
 This repo is hosted on [Codeberg](https://polarhive.ml/vulpes) & mirrored
