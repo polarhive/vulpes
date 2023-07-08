@@ -6,7 +6,7 @@
 
 ![My Firefox setup](assets/home.png)
 
-Firefox is a [mess](https://polarhive.ml/blog/firefox/). This repository
+Firefox is a [mess](https://polarhive.net/blog/firefox/). This repository
 contains my configs & tweaks that you can use on Firefox-based browsers.
 I think Mozilla should ship with these tweaks pre-configured.
 
@@ -27,6 +27,12 @@ LibreWolf might feel too-harsh for some people when popular sites stop-working.
 You should be using the [Tor Browser](https://www.torproject.org/) if your
 goal is to improve your digital-privacy and combat fingerpriting.
 
+## What's with the name?
+
+``` text
+vulpes — family of foxes; this user.js can be used with any Firefox based browser
+```
+
 ## Tweaks 🛠
 
 - A better dark-theme
@@ -34,12 +40,6 @@ goal is to improve your digital-privacy and combat fingerpriting.
 - Firefox accounts disabled
 - Google Safe browsing / geolocation disabled
 - Stopped pinging 3rd party sites fetched by Pocket
-
-## What's with the name?
-
-``` text
-vulpes — family of foxes; this user.js can be used with any Firefox based browser
-```
 
 ---
 # Instructions
@@ -64,7 +64,7 @@ Try [DuckDuckGo](https://duckduckgo.com/), [Whoogle](https://github.com/benbusby
 
 I use these for a better web-browsing experience. I'd say installing uBlock origin is the least
 one can do these days. Checkout the other extensions or install your own. Make sure your
-extensions aren't proprietary as these can be potenial security-risks.
+extensions aren't proprietary, as they are potenial security-risks.
 
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - ads/content blocker
 - [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) - fetch fonts, JS libraries locally instead of remote CDNs
@@ -73,10 +73,10 @@ extensions aren't proprietary as these can be potenial security-risks.
 - [nicedark-theme](https://addons.mozilla.org/en-US/firefox/addon/nicedarktheme/) - what it says on the tin: a 'really nice' dark-theme
 - [materialocean-theme](https://addons.mozilla.org/en-US/firefox/addon/material-ocean-theme/) - the colorscheme that I use
 
-> TIP: HTTPS is always on. You don't need to install any extension. Check this [page](https://codeberg.org/polarhive/vulpes.rss) for furthur updates.
+> TIP: HTTPS is always on. You don't need to install any extension. Check this [page](https://github.com/polarhive/vulpes/commits/main.atom) for furthur updates.
 
 ---
-This repo is hosted on [Codeberg](https://polarhive.ml/vulpes) & mirrored
-to [GitHub](https://polarhive.ml/github) for traffic.
+This repo is hosted on [Codeberg](https://polarhive.net/vulpes) & mirrored
+to [GitHub](https://polarhive.net/github) for traffic.
 
-[![license: GPLv3 or Later](https://polarhive.ml/assets/badges/gpl-3.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
+[![license: GPLv3 or Later](https://polarhive.net/assets/badges/gpl-3.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)

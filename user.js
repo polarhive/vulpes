@@ -1,6 +1,5 @@
-// HOW TO USE?
-// Last updated on 2023-04-20
-// https://polarhive.ml/vulpes
+// https://polarhive.net/vulpes
+// last updated: 2023-07-08
 user_pref("accessibility.typeaheadfind.flashBar", 0);
 user_pref("app.feedback.baseURL", "");
 user_pref("app.normandy.api_url", "");
@@ -14,7 +13,6 @@ user_pref("browser.bookmarks.editDialog.confirmationHintShowCount", 2);
 user_pref("browser.bookmarks.restore_default_bookmarks", false);
 user_pref("browser.bookmarks.showMobileBookmarks", false);
 user_pref("browser.cache.disk.enable", false);
-user_pref("browser.chrome.toolbar_tips", false);
 user_pref("browser.compactmode.show", true);
 user_pref("browser.contentblocking.category", "custom");
 user_pref("browser.contentblocking.report.endpoint_url", "");
@@ -23,14 +21,13 @@ user_pref("browser.contentblocking.report.lockwise.enabled", false);
 user_pref("browser.contentblocking.report.show_mobile_app", false);
 user_pref("browser.contentblocking.report.vpn-promo.url", "");
 user_pref("browser.contentblocking.report.vpn.enabled", false);
-user_pref("browser.ctrlTab.sortByRecentlyUsed", true);
+user_pref("browser.ctrlTab.sortByRecentlyUsed", false;
 user_pref("browser.discovery.enabled", false);
 user_pref("browser.download.alwaysOpenPanel", false);
 user_pref("browser.download.autohideButton", true);
 user_pref("browser.download.panel.shown", true);
 user_pref("browser.download.save_converter_index", 0);
 user_pref("browser.eme.ui.enabled", false);
-user_pref("browser.engagement.ctrlTab.has-used", true);
 user_pref("browser.engagement.downloads-button.has-used", true);
 user_pref("browser.engagement.fxa-toolbar-menu-button.has-used", true);
 user_pref("browser.engagement.home-button.has-removed", true);
@@ -239,7 +236,6 @@ user_pref("network.connectivity-service.IPv4.url", "");
 user_pref("network.connectivity-service.IPv6.url", "");
 user_pref("network.connectivity-service.enabled", false);
 user_pref("network.connectivity-service.nat64-check", false);
-user_pref("network.cookie.cookieBehavior", 1);
 user_pref("network.cookie.sameSite.laxByDefault", true);
 user_pref("network.cookie.sameSite.noneRequiresSecure", true);
 user_pref("network.cookie.sameSite.schemeful", true);
@@ -273,9 +269,6 @@ user_pref("pref.privacy.disable_button.view_passwords", false);
 user_pref("print.more-settings.open", true);
 user_pref("privacy.annotate_channels.strict_list.enabled", true);
 user_pref("privacy.donottrackheader.enabled", true);
-user_pref("privacy.firstparty.isolate", true);
-user_pref("privacy.firstparty.isolate.block_post_message", true);
-user_pref("privacy.firstparty.isolate.use_site", true);
 user_pref("privacy.history.custom", true);
 user_pref("privacy.partition.network_state.ocsp_cache", true);
 user_pref("privacy.purge_trackers.date_in_cookie_database", "0");
