@@ -36,29 +36,28 @@ vulpes — family of foxes; this user.js can be used with any Firefox based brow
 
 ## Tweaks 🛠
 
-- A better dark-theme
-- Telemetry disabled
-- Firefox accounts disabled
-- Google Safe browsing / geolocation disabled
-- Stopped pinging 3rd party sites fetched by Pocket
+- Firefox Accounts: disabled
+- Geolocation: disabled
+- Google Safe Browsing: disabled
+- Notifications: disabled
+- Pocket: disabled
+- Telemetry: disabled
 
 ---
 # Instructions
 
 1. Click [here](https://codeberg.org/polarhive/vulpes/archive/main.zip) to download the latest ``user.js`` file
 2. Extract the zip file
-3. Copy the ``user.js`` file to the clipboard
+3. Copy the ``user.js`` file
 4. Launch Firefox
-6. Type ``about:profiles`` in the address bar and hit enter
-7. Navigate to the Firefox current profile folder by clicking on ``Open Directory``
-8. Paste the ``user.js`` file into the Firefox profile directory
-9. Re-launch Firefox
-10. Search Engine: Google, Bing, Yahoo are not good choices. Pick another search engine
+5. Type ``about:profiles`` in the address bar and hit enter
+6. Navigate to the Firefox current profile folder by clicking on ``Open Directory``
+7. Paste the ``user.js`` file here
+8. Re-launch Firefox
+9. Search Engine: Google, Bing, Yahoo are not good choices. Pick another search engine
+10. Try [DuckDuckGo](https://duckduckgo.com/), [Whoogle](https://github.com/benbusby/whoogle-search), [Brave Search](https://search.brave.com/), or pick a [Searx](https://searx.me/) instance.
 
 > TIP: Right-click on the address bar to add custom search-engines when visiting the site
-
-Try [DuckDuckGo](https://duckduckgo.com/), [Whoogle](https://github.com/benbusby/whoogle-search),
-[Brave Search](https://search.brave.com/), or pick a [Searx](https://searx.me/) instance.
 
 ## Extensions & Themes
 
@@ -67,7 +66,7 @@ uBlock origin is the least one can do these days. Checkout the other
 extensions or install your own. Make sure your extensions aren't
 proprietary, as they are potenial security-risks.
 
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin): ads/content blocker
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin): ad/content blocker
 - [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes): fetch fonts, JS libraries locally instead of remote CDNs
 - [libredirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect): helps you use privacy frontends like Nitter, Piped & Teddit
 - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader): dark-mode for sites that don't have a dark theme
