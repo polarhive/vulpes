@@ -1,5 +1,5 @@
 // https://polarhive.net/vulpes
-// last updated: 2023-07-08
+// last updated: 2023-08-10
 user_pref("accessibility.typeaheadfind.flashBar", 0);
 user_pref("app.feedback.baseURL", "");
 user_pref("app.normandy.api_url", "");
@@ -21,7 +21,7 @@ user_pref("browser.contentblocking.report.lockwise.enabled", false);
 user_pref("browser.contentblocking.report.show_mobile_app", false);
 user_pref("browser.contentblocking.report.vpn-promo.url", "");
 user_pref("browser.contentblocking.report.vpn.enabled", false);
-user_pref("browser.ctrlTab.sortByRecentlyUsed", false;
+user_pref("browser.ctrlTab.sortByRecentlyUsed", false);
 user_pref("browser.discovery.enabled", false);
 user_pref("browser.download.alwaysOpenPanel", false);
 user_pref("browser.download.autohideButton", true);
@@ -236,16 +236,8 @@ user_pref("network.connectivity-service.IPv4.url", "");
 user_pref("network.connectivity-service.IPv6.url", "");
 user_pref("network.connectivity-service.enabled", false);
 user_pref("network.connectivity-service.nat64-check", false);
-user_pref("network.cookie.sameSite.laxByDefault", true);
-user_pref("network.cookie.sameSite.noneRequiresSecure", true);
-user_pref("network.cookie.sameSite.schemeful", true);
 user_pref("network.dns.disablePrefetch", true);
 user_pref("network.http.http2.allow-push", false);
-user_pref("network.http.referer.XOriginPolicy", 2);
-user_pref("network.http.referer.XOriginTrimmingPolicy", 2);
-user_pref("network.http.referer.defaultPolicy", 0);
-user_pref("network.http.referer.disallowCrossSiteRelaxingDefault", true);
-user_pref("network.http.referer.disallowCrossSiteRelaxingDefault.top_navigation", true);
 user_pref("network.http.speculative-parallel-limit", 0);
 user_pref("network.predictor.enabled", false);
 user_pref("network.prefetch-next", false);
